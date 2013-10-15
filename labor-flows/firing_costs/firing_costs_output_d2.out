@@ -1,0 +1,1068 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> =======================================================
+Iteration: plow all 1, shock 1, shock plow 32, time 15.947792
+    0.9995         0         0         0         0
+
+Iteration: plow all 1, shock 2, shock plow 18, time 23.249991
+    0.9995    0.7658         0         0         0
+
+Iteration: plow all 1, shock 3, shock plow 18, time 29.945175
+    0.9995    0.7658    0.4164         0         0
+
+Iteration: plow all 1, shock 4, shock plow 18, time 36.253676
+    0.9995    0.7658    0.4164    0.2362         0
+
+Iteration: plow all 1, shock 5, shock plow 18, time 42.882392
+    0.9995    0.7658    0.4164    0.2362    0.1210
+
+
+Dfirst_all =
+
+         0  628.3500  102.8726   19.5599    0.0294
+
+Iteration: plow all 2, shock 1, shock plow 18, time 49.670870
+    0.9331    0.7658    0.4164    0.2362    0.1210
+
+Iteration: plow all 2, shock 2, shock plow 18, time 56.706323
+    0.9331    0.5644    0.4164    0.2362    0.1210
+
+Iteration: plow all 2, shock 3, shock plow 18, time 63.814511
+    0.9331    0.5644    0.3717    0.2362    0.1210
+
+Iteration: plow all 2, shock 4, shock plow 18, time 70.899102
+    0.9331    0.5644    0.3717    0.2309    0.1210
+
+Iteration: plow all 2, shock 5, shock plow 18, time 78.029903
+    0.9331    0.5644    0.3717    0.2309    0.1209
+
+
+Dfirst_all =
+
+  616.8075    6.8416    1.3743    2.8030    0.0376
+
+Iteration: plow all 3, shock 1, shock plow 18, time 85.340309
+    0.8539    0.5644    0.3717    0.2309    0.1209
+
+Iteration: plow all 3, shock 2, shock plow 18, time 92.650931
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 3, shock 3, shock plow 18, time 99.942332
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 3, shock 4, shock plow 18, time 107.161843
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 3, shock 5, shock plow 18, time 114.411629
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+
+Dfirst_all =
+
+    2.9987    1.1598   -0.7993   -0.2577    0.0375
+
+Iteration: plow all 4, shock 1, shock plow 18, time 121.709800
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 4, shock 2, shock plow 18, time 128.975880
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 4, shock 3, shock plow 18, time 136.285613
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 4, shock 4, shock plow 18, time 143.548888
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+Iteration: plow all 4, shock 5, shock plow 18, time 150.798295
+    0.8539    0.5618    0.3717    0.2309    0.1209
+
+
+Dfirst_all =
+
+    2.9987    1.1598   -0.7993   -0.2577    0.0375
+
+done
+
+employment =
+
+    0.7618
+
+
+employment1 =
+
+    0.7618
+
+
+unemrate =
+
+    0.2382
+
+
+flows =
+
+   1.0e-03 *
+
+    0.0000    0.0108    0.1317    0.2166    0.0874
+
+
+vbar_new =
+
+    0.0000    0.0017    0.1341    0.5322    0.3321
+
+done
+
+employment =
+
+    0.8633
+
+
+employment1 =
+
+    0.8633
+
+
+unemrate =
+
+    0.1367
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0017    0.1299    0.9967    0.2851
+
+
+vbar_new =
+
+    0.0000    0.0016    0.1318    0.5299    0.3366
+
+done
+
+employment =
+
+    0.8638
+
+
+employment1 =
+
+    0.8638
+
+
+unemrate =
+
+    0.1362
+
+
+flows =
+
+   -0.0000    0.0000    0.0001    0.0010    0.0003
+
+
+vbar_new =
+
+    0.0000    0.0016    0.1318    0.5299    0.3367
+
+done
+
+employment =
+
+    0.8565
+
+
+employment1 =
+
+    0.8565
+
+
+unemrate =
+
+    0.1435
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0017    0.1220    0.9464    0.2743
+
+
+vbar_new =
+
+    0.0000    0.0016    0.1320    0.5302    0.3361
+
+Iter 100 emp 8359 changemu 69 fu 0.2321928
+Iter 200 emp 8551 changemu 150 fu 0.2308588
+Iter 300 emp 8884 changemu 222 fu 0.2406208
+Iter 400 emp 8952 changemu 324 fu 0.2398258
+Iter 500 emp 9046 changemu 429 fu 0.2419798
+Iter 600 emp 9124 changemu 499 fu 0.2423088
+Iter 700 emp 9052 changemu 609 fu 0.2348468
+Iter 800 emp 9032 changemu 736 fu 0.2282378
+Iter 900 emp 9124 changemu 801 fu 0.2292378
+Iter 1000 emp 9214 changemu 895 fu 0.2328158
+Iter 1100 emp 9195 changemu 1003 fu 0.2298908
+Iter 1200 emp 9205 changemu 1126 fu 0.2263048
+Iter 1300 emp 9120 changemu 1231 fu 0.2179848
+Iter 1400 emp 9068 changemu 1372 fu 0.2135708
+Iter 1500 emp 9079 changemu 1508 fu 0.2108538
+Iter 1600 emp 9210 changemu 1600 fu 0.2189488
+Iter 1700 emp 9219 changemu 1687 fu 0.2183458
+Iter 1800 emp 9133 changemu 1790 fu 0.2090898
+Iter 1900 emp 9189 changemu 1876 fu 0.2103018
+Iter 2000 emp 9224 changemu 1995 fu 0.2105798
+Iter 2100 emp 9136 changemu 2123 fu 0.2020018
+Iter 2200 emp 9077 changemu 2253 fu 0.1956218
+Iter 2300 emp 9065 changemu 2345 fu 0.1910518
+Iter 2400 emp 8956 changemu 2560 fu 0.1864878
+Iter 2500 emp 8925 changemu 2686 fu 0.1800068
+Iter 2600 emp 8688 changemu 2954 fu 0.1678228
+Iter 2700 emp 8939 changemu 2973 fu 0.1777108
+Iter 2800 emp 9001 changemu 3042 fu 0.1785178
+Iter 2900 emp 9097 changemu 3124 fu 0.1814858
+Iter 3000 emp 9021 changemu 3253 fu 0.1773698
+Iter 3100 emp 8875 changemu 3446 fu 0.1713698
+Iter 3200 emp 8922 changemu 3553 fu 0.1694038
+Iter 3300 emp 8956 changemu 3689 fu 0.1709798
+Iter 3400 emp 8918 changemu 3804 fu 0.1696658
+Iter 3500 emp 8997 changemu 3923 fu 0.1727448
+Iter 3600 emp 8806 changemu 4079 fu 0.1617258
+Iter 3700 emp 8775 changemu 4180 fu 0.1565218
+Iter 3800 emp 8816 changemu 4290 fu 0.1600338
+Iter 3900 emp 8856 changemu 4383 fu 0.1634738
+Iter 4000 emp 8976 changemu 4455 fu 0.1677088
+Iter 4100 emp 9036 changemu 4545 fu 0.1702868
+Iter 4200 emp 9074 changemu 4659 fu 0.1726268
+Iter 4300 emp 8954 changemu 4826 fu 0.1636668
+Iter 4400 emp 8874 changemu 4967 fu 0.1587108
+Iter 4500 emp 8929 changemu 5012 fu 0.1584748
+Iter 4600 emp 8974 changemu 5121 fu 0.1587448
+Iter 4700 emp 8815 changemu 5353 fu 0.1543018
+Iter 4800 emp 8891 changemu 5462 fu 0.1542768
+Iter 4900 emp 8791 changemu 5713 fu 0.1555198
+Iter 5000 emp 8617 changemu 5881 fu 0.1481578
+Iter 5100 emp 8713 changemu 5940 fu 0.1497598
+Iter 5200 emp 8875 changemu 6040 fu 0.1548118
+Iter 5300 emp 8634 changemu 6275 fu 0.1452238
+Iter 5400 emp 8799 changemu 6299 fu 0.1501868
+Iter 5500 emp 8741 changemu 6449 fu 0.1469658
+Iter 5600 emp 8552 changemu 6630 fu 0.1427358
+Iter 5700 emp 8727 changemu 6656 fu 0.1457058
+Iter 5800 emp 8695 changemu 6777 fu 0.1445188
+Iter 5900 emp 8791 changemu 6829 fu 0.1471508
+Iter 6000 emp 8881 changemu 6866 fu 0.1488828
+Iter 6100 emp 8736 changemu 7085 fu 0.1432278
+Iter 6200 emp 8833 changemu 7135 fu 0.1468738
+Iter 6300 emp 8929 changemu 7183 fu 0.1517448
+Iter 6400 emp 9017 changemu 7267 fu 0.1553188
+Iter 6500 emp 9039 changemu 7375 fu 0.1561968
+Iter 6600 emp 8831 changemu 7606 fu 0.1519878
+Iter 6700 emp 8801 changemu 7816 fu 0.1497288
+Iter 6800 emp 8755 changemu 7929 fu 0.1504938
+Iter 6900 emp 8647 changemu 8174 fu 0.1464648
+Iter 7000 emp 8675 changemu 8421 fu 0.1493278
+Iter 7100 emp 8720 changemu 8534 fu 0.1509508
+Iter 7200 emp 8696 changemu 8666 fu 0.1502398
+Iter 7300 emp 8553 changemu 8838 fu 0.1452168
+Iter 7400 emp 8669 changemu 8945 fu 0.1481488
+Iter 7500 emp 8657 changemu 9027 fu 0.1454058
+Iter 7600 emp 8719 changemu 9137 fu 0.1497268
+Iter 7700 emp 8784 changemu 9209 fu 0.1477328
+Iter 7800 emp 8685 changemu 9354 fu 0.1439078
+Iter 7900 emp 8820 changemu 9375 fu 0.1485098
+Iter 8000 emp 8778 changemu 9511 fu 0.1480508
+Iter 8100 emp 8559 changemu 9708 fu 0.1454728
+Iter 8200 emp 8705 changemu 9781 fu 0.1507288
+Iter 8300 emp 8724 changemu 9851 fu 0.1504558
+Iter 8400 emp 8783 changemu 9938 fu 0.1523858
+Iter 8500 emp 8982 changemu 9995 fu 0.1606558
+Iter 8600 emp 8929 changemu 10161 fu 0.1589958
+Iter 8700 emp 8783 changemu 10391 fu 0.1538218
+Iter 8800 emp 8843 changemu 10589 fu 0.1563348
+Iter 8900 emp 8863 changemu 10705 fu 0.1544778
+Iter 9000 emp 8744 changemu 10855 fu 0.1478188
+Iter 9100 emp 8569 changemu 11008 fu 0.1425758
+Iter 9200 emp 8605 changemu 11136 fu 0.1447158
+Iter 9300 emp 8736 changemu 11176 fu 0.1482538
+Iter 9400 emp 8778 changemu 11283 fu 0.1507448
+Iter 9500 emp 8499 changemu 11499 fu 0.1422228
+Iter 9600 emp 8476 changemu 11674 fu 0.1403788
+Iter 9700 emp 8605 changemu 11779 fu 0.1424048
+Iter 9800 emp 8381 changemu 12005 fu 0.1353208
+Iter 9900 emp 8156 changemu 12161 fu 0.1278518
+Iter 10000 emp 8295 changemu 12222 fu 0.1313518
+Iter 10100 emp 8412 changemu 12374 fu 0.1353988
+Iter 10200 emp 8509 changemu 12459 fu 0.1374278
+Iter 10300 emp 8592 changemu 12546 fu 0.1387678
+Iter 10400 emp 8635 changemu 12650 fu 0.1403218
+Iter 10500 emp 8605 changemu 12736 fu 0.1368668
+Iter 10600 emp 8501 changemu 12843 fu 0.1323658
+Iter 10700 emp 8494 changemu 12950 fu 0.1325938
+Iter 10800 emp 8560 changemu 13013 fu 0.1320998
+Iter 10900 emp 8698 changemu 13087 fu 0.1361438
+Iter 11000 emp 8574 changemu 13223 fu 0.1287268
+Iter 11100 emp 8509 changemu 13375 fu 0.1286858
+Iter 11200 emp 8477 changemu 13523 fu 0.1292478
+Iter 11300 emp 8304 changemu 13702 fu 0.1225498
+Iter 11400 emp 8231 changemu 13834 fu 0.1202608
+Iter 11500 emp 8264 changemu 13941 fu 0.1224658
+Iter 11600 emp 8465 changemu 13987 fu 0.1278518
+Iter 11700 emp 8601 changemu 14110 fu 0.1355958
+Iter 11800 emp 8437 changemu 14282 fu 0.1293308
+Iter 11900 emp 8359 changemu 14439 fu 0.1299798
+Iter 12000 emp 8625 changemu 14463 fu 0.1380308
+Iter 12100 emp 8680 changemu 14550 fu 0.1395628
+Iter 12200 emp 8699 changemu 14691 fu 0.1404988
+Iter 12300 emp 8781 changemu 14765 fu 0.1418878
+Iter 12400 emp 8865 changemu 14908 fu 0.1507758
+Iter 12500 emp 8876 changemu 15032 fu 0.1519418
+Iter 12600 emp 8870 changemu 15123 fu 0.1497758
+Iter 12700 emp 8787 changemu 15277 fu 0.1478138
+Iter 12800 emp 8911 changemu 15320 fu 0.1495668
+Iter 12900 emp 9025 changemu 15374 fu 0.1535988
+Iter 13000 emp 9091 changemu 15447 fu 0.1559508
+Iter 13100 emp 9115 changemu 15543 fu 0.1593528
+Iter 13200 emp 8911 changemu 15694 fu 0.1517048
+Iter 13300 emp 8970 changemu 15749 fu 0.1539358
+Iter 13400 emp 8837 changemu 15928 fu 0.1458058
+Iter 13500 emp 8826 changemu 16126 fu 0.1458978
+Iter 13600 emp 8949 changemu 16246 fu 0.1542498
+Iter 13700 emp 9066 changemu 16343 fu 0.1616578
+Iter 13800 emp 8976 changemu 16537 fu 0.1599118
+Iter 13900 emp 8928 changemu 16720 fu 0.1601108
+Iter 14000 emp 9052 changemu 16756 fu 0.1624148
+Iter 14100 emp 8970 changemu 16977 fu 0.1564288
+Iter 14200 emp 8882 changemu 17090 fu 0.1533588
+Iter 14300 emp 8498 changemu 17447 fu 0.1380878
+Iter 14400 emp 8562 changemu 17534 fu 0.1419008
+Iter 14500 emp 8372 changemu 17934 fu 0.1352368
+Iter 14600 emp 8404 changemu 18111 fu 0.1390728
+Iter 14700 emp 8428 changemu 18372 fu 0.1390898
+Iter 14800 emp 8224 changemu 18586 fu 0.1350128
+Iter 14900 emp 8355 changemu 18723 fu 0.1391268
+Iter 15000 emp 8412 changemu 18798 fu 0.1374618
+=======================================================
+Iteration: plow all 1, shock 1, shock plow 32, time 17.062256
+    0.9995         0         0         0         0
+
+Iteration: plow all 1, shock 2, shock plow 18, time 25.178826
+    0.9995    0.7648         0         0         0
+
+Iteration: plow all 1, shock 3, shock plow 18, time 32.613682
+    0.9995    0.7648    0.4164         0         0
+
+Iteration: plow all 1, shock 4, shock plow 18, time 39.615075
+    0.9995    0.7648    0.4164    0.2362         0
+
+Iteration: plow all 1, shock 5, shock plow 18, time 46.970621
+    0.9995    0.7648    0.4164    0.2362    0.1194
+
+
+Dfirst_all =
+
+         0  626.3847  104.3866   19.9422   -0.0153
+
+Iteration: plow all 2, shock 1, shock plow 18, time 54.524846
+    0.9312    0.7648    0.4164    0.2362    0.1194
+
+Iteration: plow all 2, shock 2, shock plow 18, time 62.342121
+    0.9312    0.5628    0.4164    0.2362    0.1194
+
+Iteration: plow all 2, shock 3, shock plow 18, time 70.257314
+    0.9312    0.5628    0.3706    0.2362    0.1194
+
+Iteration: plow all 2, shock 4, shock plow 18, time 78.126552
+    0.9312    0.5628    0.3706    0.2296    0.1194
+
+Iteration: plow all 2, shock 5, shock plow 18, time 86.028801
+    0.9312    0.5628    0.3706    0.2296    0.1193
+
+
+Dfirst_all =
+
+  599.9738    5.4762    0.4287    0.0305    0.0027
+
+Iteration: plow all 3, shock 1, shock plow 18, time 94.029338
+    0.8519    0.5628    0.3706    0.2296    0.1193
+
+Iteration: plow all 3, shock 2, shock plow 18, time 101.853366
+    0.8519    0.5610    0.3706    0.2296    0.1193
+
+Iteration: plow all 3, shock 3, shock plow 18, time 109.969987
+    0.8519    0.5610    0.3706    0.2296    0.1193
+
+Iteration: plow all 3, shock 4, shock plow 18, time 118.099753
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+Iteration: plow all 3, shock 5, shock plow 18, time 126.252257
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+
+Dfirst_all =
+
+    1.4542   -0.2135   -1.7593   -3.0721    0.0025
+
+Iteration: plow all 4, shock 1, shock plow 18, time 134.446755
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+Iteration: plow all 4, shock 2, shock plow 18, time 142.567486
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+Iteration: plow all 4, shock 3, shock plow 18, time 150.689348
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+Iteration: plow all 4, shock 4, shock plow 18, time 158.769686
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+Iteration: plow all 4, shock 5, shock plow 18, time 166.897668
+    0.8519    0.5610    0.3706    0.2295    0.1193
+
+
+Dfirst_all =
+
+    1.4542   -0.2135   -1.7593   -3.0721    0.0025
+
+done
+
+employment =
+
+    0.7531
+
+
+employment1 =
+
+    0.7531
+
+
+unemrate =
+
+    0.2469
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0099    0.1040    0.2060    0.0831
+
+
+vbar_new =
+
+    0.0000    0.0013    0.1248    0.5336    0.3404
+
+done
+
+employment =
+
+    0.8586
+
+
+employment1 =
+
+    0.8586
+
+
+unemrate =
+
+    0.1414
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0005    0.0979    0.9584    0.2803
+
+
+vbar_new =
+
+    0.0000    0.0013    0.1227    0.5312    0.3448
+
+done
+
+employment =
+
+    0.8591
+
+
+employment1 =
+
+    0.8591
+
+
+unemrate =
+
+    0.1409
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0005    0.0961    0.9623    0.2841
+
+
+vbar_new =
+
+    0.0000    0.0013    0.1227    0.5312    0.3449
+
+done
+
+employment =
+
+    0.8523
+
+
+employment1 =
+
+    0.8523
+
+
+unemrate =
+
+    0.1477
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0005    0.0921    0.9146    0.2707
+
+
+vbar_new =
+
+    0.0000    0.0013    0.1229    0.5314    0.3444
+
+Iter 100 emp 8292 changemu 79 fu 0.2198138
+Iter 200 emp 8426 changemu 169 fu 0.2185708
+Iter 300 emp 8717 changemu 235 fu 0.2244938
+Iter 400 emp 8888 changemu 314 fu 0.2253368
+Iter 500 emp 9014 changemu 401 fu 0.2280188
+Iter 600 emp 9082 changemu 457 fu 0.2280068
+Iter 700 emp 9158 changemu 568 fu 0.2302558
+Iter 800 emp 8993 changemu 703 fu 0.2160308
+Iter 900 emp 8885 changemu 834 fu 0.2084168
+Iter 1000 emp 8823 changemu 988 fu 0.1971498
+Iter 1100 emp 8990 changemu 1057 fu 0.2036978
+Iter 1200 emp 8909 changemu 1199 fu 0.1946878
+Iter 1300 emp 8924 changemu 1305 fu 0.1928458
+Iter 1400 emp 8780 changemu 1526 fu 0.1843718
+Iter 1500 emp 8878 changemu 1574 fu 0.1856378
+Iter 1600 emp 8796 changemu 1736 fu 0.1803208
+Iter 1700 emp 8714 changemu 1896 fu 0.1747418
+Iter 1800 emp 8803 changemu 2038 fu 0.1796618
+Iter 1900 emp 8822 changemu 2121 fu 0.1741988
+Iter 2000 emp 8812 changemu 2227 fu 0.1702138
+Iter 2100 emp 8884 changemu 2279 fu 0.1722578
+Iter 2200 emp 8971 changemu 2345 fu 0.1751528
+Iter 2300 emp 9023 changemu 2474 fu 0.1781028
+Iter 2400 emp 9039 changemu 2603 fu 0.1783668
+Iter 2500 emp 8869 changemu 2790 fu 0.1683788
+Iter 2600 emp 8828 changemu 2895 fu 0.1628108
+Iter 2700 emp 8816 changemu 3011 fu 0.1632268
+Iter 2800 emp 8605 changemu 3217 fu 0.1501878
+Iter 2900 emp 8500 changemu 3367 fu 0.1461188
+Iter 3000 emp 8492 changemu 3499 fu 0.1448898
+Iter 3100 emp 8605 changemu 3603 fu 0.1475458
+Iter 3200 emp 8533 changemu 3756 fu 0.1444398
+Iter 3300 emp 8557 changemu 3879 fu 0.1441548
+Iter 3400 emp 8819 changemu 3917 fu 0.1542898
+Iter 3500 emp 8850 changemu 4037 fu 0.1580088
+Iter 3600 emp 8838 changemu 4185 fu 0.1538498
+Iter 3700 emp 8717 changemu 4339 fu 0.1480548
+Iter 3800 emp 8800 changemu 4429 fu 0.1524878
+Iter 3900 emp 8838 changemu 4501 fu 0.1523938
+Iter 4000 emp 8919 changemu 4608 fu 0.1549488
+Iter 4100 emp 8640 changemu 4853 fu 0.1468738
+Iter 4200 emp 8619 changemu 4966 fu 0.1424528
+Iter 4300 emp 8575 changemu 5095 fu 0.1378528
+Iter 4400 emp 8583 changemu 5175 fu 0.1362518
+Iter 4500 emp 8430 changemu 5330 fu 0.1350348
+Iter 4600 emp 8562 changemu 5414 fu 0.1399768
+Iter 4700 emp 8633 changemu 5516 fu 0.1396858
+Iter 4800 emp 8372 changemu 5680 fu 0.1296208
+Iter 4900 emp 8345 changemu 5830 fu 0.1268048
+Iter 5000 emp 8367 changemu 5935 fu 0.1257088
+Iter 5100 emp 8337 changemu 6051 fu 0.1288008
+Iter 5200 emp 8369 changemu 6189 fu 0.1328788
+Iter 5300 emp 8441 changemu 6311 fu 0.1360108
+Iter 5400 emp 8682 changemu 6385 fu 0.1436548
+Iter 5500 emp 8796 changemu 6489 fu 0.1497008
+Iter 5600 emp 8821 changemu 6546 fu 0.1490058
+Iter 5700 emp 8681 changemu 6724 fu 0.1454368
+Iter 5800 emp 8862 changemu 6768 fu 0.1496938
+Iter 5900 emp 8835 changemu 6870 fu 0.1529858
+Iter 6000 emp 8819 changemu 7035 fu 0.1539128
+Iter 6100 emp 8976 changemu 7047 fu 0.1571178
+Iter 6200 emp 8916 changemu 7258 fu 0.1534648
+Iter 6300 emp 8966 changemu 7336 fu 0.1524338
+Iter 6400 emp 8884 changemu 7420 fu 0.1506078
+Iter 6500 emp 8774 changemu 7609 fu 0.1430468
+Iter 6600 emp 8857 changemu 7679 fu 0.1486598
+Iter 6700 emp 8832 changemu 7773 fu 0.1471198
+Iter 6800 emp 8721 changemu 8008 fu 0.1411528
+Iter 6900 emp 8705 changemu 8147 fu 0.1407208
+Iter 7000 emp 8495 changemu 8403 fu 0.1378808
+Iter 7100 emp 8775 changemu 8441 fu 0.1477518
+Iter 7200 emp 8778 changemu 8550 fu 0.1498648
+Iter 7300 emp 8894 changemu 8647 fu 0.1540938
+Iter 7400 emp 8700 changemu 8809 fu 0.1440688
+Iter 7500 emp 8700 changemu 9090 fu 0.1421938
+Iter 7600 emp 8674 changemu 9180 fu 0.1387588
+Iter 7700 emp 8762 changemu 9244 fu 0.1420188
+Iter 7800 emp 8594 changemu 9417 fu 0.1359178
+Iter 7900 emp 8511 changemu 9546 fu 0.1344158
+Iter 8000 emp 8733 changemu 9590 fu 0.1389118
+Iter 8100 emp 8775 changemu 9669 fu 0.1412108
+Iter 8200 emp 8763 changemu 9782 fu 0.1383058
+Iter 8300 emp 8687 changemu 9954 fu 0.1329268
+Iter 8400 emp 8678 changemu 10150 fu 0.1327818
+Iter 8500 emp 8695 changemu 10244 fu 0.1395458
+Iter 8600 emp 8554 changemu 10477 fu 0.1329328
+Iter 8700 emp 8533 changemu 10560 fu 0.1310178
+Iter 8800 emp 8496 changemu 10729 fu 0.1296558
+Iter 8900 emp 8602 changemu 10775 fu 0.1308758
+Iter 9000 emp 8693 changemu 10823 fu 0.1335678
+Iter 9100 emp 8545 changemu 10991 fu 0.1316248
+Iter 9200 emp 8477 changemu 11235 fu 0.1306528
+Iter 9300 emp 8513 changemu 11288 fu 0.1307748
+Iter 9400 emp 8501 changemu 11443 fu 0.1288618
+Iter 9500 emp 8512 changemu 11569 fu 0.1320978
+Iter 9600 emp 8548 changemu 11677 fu 0.1318938
+Iter 9700 emp 8515 changemu 11902 fu 0.1302818
+Iter 9800 emp 8507 changemu 11992 fu 0.1278328
+Iter 9900 emp 8537 changemu 12084 fu 0.1288098
+Iter 10000 emp 8419 changemu 12242 fu 0.1256458
+Iter 10100 emp 8521 changemu 12279 fu 0.1267018
+Iter 10200 emp 8683 changemu 12422 fu 0.1325918
+Iter 10300 emp 8557 changemu 12627 fu 0.1306118
+Iter 10400 emp 8571 changemu 12743 fu 0.1305238
+Iter 10500 emp 8717 changemu 12803 fu 0.1340568
+Iter 10600 emp 8680 changemu 12953 fu 0.1338568
+Iter 10700 emp 8675 changemu 13013 fu 0.1313128
+Iter 10800 emp 8479 changemu 13188 fu 0.1292458
+Iter 10900 emp 8729 changemu 13244 fu 0.1357818
+Iter 11000 emp 8608 changemu 13402 fu 0.1312268
+Iter 11100 emp 8666 changemu 13461 fu 0.1338218
+Iter 11200 emp 8580 changemu 13603 fu 0.1314908
+Iter 11300 emp 8615 changemu 13747 fu 0.1342958
+Iter 11400 emp 8526 changemu 13940 fu 0.1350118
+Iter 11500 emp 8515 changemu 14133 fu 0.1319738
+Iter 11600 emp 8472 changemu 14306 fu 0.1300938
+Iter 11700 emp 8421 changemu 14403 fu 0.1281418
+Iter 11800 emp 8269 changemu 14586 fu 0.1244538
+Iter 11900 emp 8245 changemu 14770 fu 0.1232388
+Iter 12000 emp 8269 changemu 14910 fu 0.1260858
+Iter 12100 emp 8146 changemu 15110 fu 0.1244038
+Iter 12200 emp 8315 changemu 15163 fu 0.1270908
+Iter 12300 emp 8451 changemu 15258 fu 0.1305728
+Iter 12400 emp 8570 changemu 15328 fu 0.1330398
+Iter 12500 emp 8411 changemu 15488 fu 0.1286468
+Iter 12600 emp 8457 changemu 15674 fu 0.1321068
+Iter 12700 emp 8389 changemu 15767 fu 0.1266168
+Iter 12800 emp 8515 changemu 15815 fu 0.1288468
+Iter 12900 emp 8626 changemu 15920 fu 0.1300028
+Iter 13000 emp 8682 changemu 16037 fu 0.1319498
+Iter 13100 emp 8785 changemu 16096 fu 0.1374508
+Iter 13200 emp 8878 changemu 16124 fu 0.1378828
+Iter 13300 emp 8793 changemu 16228 fu 0.1341468
+Iter 13400 emp 8664 changemu 16428 fu 0.1305778
+Iter 13500 emp 8447 changemu 16611 fu 0.1277168
+Iter 13600 emp 8543 changemu 16673 fu 0.1314678
+Iter 13700 emp 8598 changemu 16754 fu 0.1325158
+Iter 13800 emp 8683 changemu 16859 fu 0.1362978
+Iter 13900 emp 8788 changemu 16920 fu 0.1390008
+Iter 14000 emp 8598 changemu 17152 fu 0.1354598
+Iter 14100 emp 8637 changemu 17254 fu 0.1383288
+Iter 14200 emp 8482 changemu 17447 fu 0.1339258
+Iter 14300 emp 8457 changemu 17659 fu 0.1299958
+Iter 14400 emp 8550 changemu 17710 fu 0.1310748
+Iter 14500 emp 8624 changemu 17850 fu 0.1338118
+Iter 14600 emp 8664 changemu 18067 fu 0.1383468
+Iter 14700 emp 8718 changemu 18154 fu 0.1376088
+Iter 14800 emp 8629 changemu 18298 fu 0.1369058
+Iter 14900 emp 8715 changemu 18346 fu 0.1400788
+Iter 15000 emp 8652 changemu 18539 fu 0.1389978
+=======================================================
+Iteration: plow all 1, shock 1, shock plow 32, time 17.154742
+    0.9995         0         0         0         0
+
+Iteration: plow all 1, shock 2, shock plow 18, time 25.034688
+    0.9995    0.7367         0         0         0
+
+Iteration: plow all 1, shock 3, shock plow 18, time 32.285689
+    0.9995    0.7367    0.4014         0         0
+
+Iteration: plow all 1, shock 4, shock plow 18, time 39.354914
+    0.9995    0.7367    0.4014    0.2262         0
+
+Iteration: plow all 1, shock 5, shock plow 18, time 46.751707
+    0.9995    0.7367    0.4014    0.2262    0.0926
+
+
+Dfirst_all =
+
+         0  560.2036  101.3909   21.1865    2.1372
+
+Iteration: plow all 2, shock 1, shock plow 18, time 54.368532
+    0.9046    0.7367    0.4014    0.2262    0.0926
+
+Iteration: plow all 2, shock 2, shock plow 18, time 62.265480
+    0.9046    0.5449    0.4014    0.2262    0.0926
+
+Iteration: plow all 2, shock 3, shock plow 18, time 70.258397
+    0.9046    0.5449    0.3578    0.2262    0.0926
+
+Iteration: plow all 2, shock 4, shock plow 18, time 78.216047
+    0.9046    0.5449    0.3578    0.2207    0.0926
+
+Iteration: plow all 2, shock 5, shock plow 18, time 86.241411
+    0.9046    0.5449    0.3578    0.2207    0.0926
+
+
+Dfirst_all =
+
+  466.7892    4.1358   -1.4141    0.0066    2.4497
+
+Iteration: plow all 3, shock 1, shock plow 18, time 94.395609
+    0.8238    0.5449    0.3578    0.2207    0.0926
+
+Iteration: plow all 3, shock 2, shock plow 18, time 102.456710
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 3, shock 3, shock plow 18, time 110.527510
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 3, shock 4, shock plow 18, time 118.353795
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 3, shock 5, shock plow 18, time 126.399868
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+
+Dfirst_all =
+
+    2.6594   -1.8130   -1.4127    0.0068    2.4497
+
+Iteration: plow all 4, shock 1, shock plow 18, time 134.475098
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 4, shock 2, shock plow 18, time 142.614040
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 4, shock 3, shock plow 18, time 150.709751
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 4, shock 4, shock plow 18, time 158.820580
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+Iteration: plow all 4, shock 5, shock plow 18, time 166.967873
+    0.8238    0.5422    0.3578    0.2207    0.0926
+
+
+Dfirst_all =
+
+    2.6594   -1.8130   -1.4127    0.0068    2.4497
+
+done
+
+employment =
+
+    0.7653
+
+
+employment1 =
+
+    0.7653
+
+
+unemrate =
+
+    0.2347
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000   -0.0507   -0.4124   -0.2153   -0.0146
+
+
+vbar_new =
+
+    0.0000    0.0001    0.0379    0.4790    0.4830
+
+done
+
+employment =
+
+    0.8806
+
+
+employment1 =
+
+    0.8806
+
+
+unemrate =
+
+    0.1194
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0014   -0.0673    0.0567    0.1414
+
+
+vbar_new =
+
+    0.0000    0.0001    0.0370    0.4743    0.4886
+
+done
+
+employment =
+
+    0.8809
+
+
+employment1 =
+
+    0.8809
+
+
+unemrate =
+
+    0.1191
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0014   -0.0655    0.0643    0.1417
+
+
+vbar_new =
+
+    0.0000    0.0001    0.0370    0.4743    0.4887
+
+done
+
+employment =
+
+    0.8455
+
+
+employment1 =
+
+    0.8455
+
+
+unemrate =
+
+    0.1545
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0014   -0.0474    0.0518    0.1126
+
+
+vbar_new =
+
+    0.0000    0.0001    0.0374    0.4763    0.4863
+
+done
+
+employment =
+
+    0.8453
+
+
+employment1 =
+
+    0.8453
+
+
+unemrate =
+
+    0.1547
+
+
+flows =
+
+   1.0e-03 *
+
+   -0.0000    0.0014   -0.0480    0.0494    0.1124
+
+
+vbar_new =
+
+    0.0000    0.0001    0.0374    0.4763    0.4862
+
+Iter 100 emp 8424 changemu 73 fu 0.2175388
+Iter 200 emp 8764 changemu 125 fu 0.2252358
+Iter 300 emp 8872 changemu 259 fu 0.2266508
+Iter 400 emp 9092 changemu 308 fu 0.2311718
+Iter 500 emp 9172 changemu 408 fu 0.2292088
+Iter 600 emp 9153 changemu 503 fu 0.2218208
+Iter 700 emp 9187 changemu 605 fu 0.2165058
+Iter 800 emp 9134 changemu 699 fu 0.2104608
+Iter 900 emp 9150 changemu 793 fu 0.2087988
+Iter 1000 emp 9193 changemu 885 fu 0.2088328
+Iter 1100 emp 9165 changemu 978 fu 0.2058208
+Iter 1200 emp 9212 changemu 1059 fu 0.2016148
+Iter 1300 emp 8938 changemu 1239 fu 0.1836928
+Iter 1400 emp 9049 changemu 1335 fu 0.1853088
+Iter 1500 emp 9178 changemu 1379 fu 0.1908338
+Iter 1600 emp 9176 changemu 1501 fu 0.1887238
+Iter 1700 emp 9204 changemu 1563 fu 0.1884178
+Iter 1800 emp 9206 changemu 1677 fu 0.1856518
+Iter 1900 emp 9152 changemu 1806 fu 0.1786548
+Iter 2000 emp 9157 changemu 1901 fu 0.1776208
+Iter 2100 emp 9201 changemu 2016 fu 0.1784208
+Iter 2200 emp 9142 changemu 2105 fu 0.1723878
+Iter 2300 emp 9099 changemu 2208 fu 0.1691918
+Iter 2400 emp 9056 changemu 2339 fu 0.1692708
+Iter 2500 emp 8889 changemu 2527 fu 0.1593478
+Iter 2600 emp 8914 changemu 2621 fu 0.1603208
+Iter 2700 emp 8951 changemu 2739 fu 0.1606328
+Iter 2800 emp 8894 changemu 2875 fu 0.1562028
+Iter 2900 emp 8863 changemu 3032 fu 0.1506528
+Iter 3000 emp 8755 changemu 3204 fu 0.1429228
+Iter 3100 emp 8818 changemu 3369 fu 0.1479468
+Iter 3200 emp 8883 changemu 3464 fu 0.1495548
+Iter 3300 emp 8774 changemu 3623 fu 0.1435418
+Iter 3400 emp 8719 changemu 3741 fu 0.1392628
+Iter 3500 emp 8832 changemu 3810 fu 0.1405278
+Iter 3600 emp 8699 changemu 3956 fu 0.1346278
+Iter 3700 emp 8587 changemu 4133 fu 0.1328768
+Iter 3800 emp 8540 changemu 4276 fu 0.1275938
+Iter 3900 emp 8280 changemu 4531 fu 0.1214038
+Iter 4000 emp 8346 changemu 4610 fu 0.1217598
+Iter 4100 emp 8451 changemu 4702 fu 0.1198648
+Iter 4200 emp 8376 changemu 4864 fu 0.1138318
+Iter 4300 emp 8124 changemu 5071 fu 0.1065758
+Iter 4400 emp 8171 changemu 5134 fu 0.1040248
+Iter 4500 emp 8199 changemu 5174 fu 0.1040008
+Iter 4600 emp 8265 changemu 5263 fu 0.1045118
+Iter 4700 emp 8183 changemu 5392 fu 0.1018158
+Iter 4800 emp 8220 changemu 5493 fu 0.1085538
+Iter 4900 emp 8292 changemu 5584 fu 0.1109208
+Iter 5000 emp 8310 changemu 5716 fu 0.1111238
+Iter 5100 emp 8077 changemu 5922 fu 0.1047608
+Iter 5200 emp 8115 changemu 6033 fu 0.1012938
+Iter 5300 emp 8264 changemu 6080 fu 0.1024398
+Iter 5400 emp 8029 changemu 6244 fu 0.0956908
+Iter 5500 emp 7855 changemu 6393 fu 0.0880308
+Iter 5600 emp 7841 changemu 6503 fu 0.0893768
+Iter 5700 emp 7865 changemu 6649 fu 0.0910718
+Iter 5800 emp 8044 changemu 6691 fu 0.0944918
+Iter 5900 emp 8237 changemu 6737 fu 0.1016178
+Iter 6000 emp 8439 changemu 6767 fu 0.1050378
+Iter 6100 emp 8568 changemu 6866 fu 0.1070928
+Iter 6200 emp 8481 changemu 7042 fu 0.1033308
+Iter 6300 emp 8529 changemu 7154 fu 0.1049288
+Iter 6400 emp 8345 changemu 7398 fu 0.1003228
+Iter 6500 emp 8256 changemu 7519 fu 0.0995468
+Iter 6600 emp 8356 changemu 7596 fu 0.1013278
+Iter 6700 emp 8222 changemu 7892 fu 0.1027428
+Iter 6800 emp 8318 changemu 7938 fu 0.1046288
+Iter 6900 emp 8484 changemu 7946 fu 0.1065048
+Iter 7000 emp 8468 changemu 8068 fu 0.1096648
+Iter 7100 emp 8455 changemu 8272 fu 0.1100068
+Iter 7200 emp 8506 changemu 8331 fu 0.1084108
+Iter 7300 emp 8596 changemu 8410 fu 0.1091428
+Iter 7400 emp 8561 changemu 8533 fu 0.1066028
+Iter 7500 emp 8204 changemu 8729 fu 0.0999318
+Iter 7600 emp 8116 changemu 8850 fu 0.0964478
+Iter 7700 emp 8027 changemu 8949 fu 0.0929658
+Iter 7800 emp 8117 changemu 9008 fu 0.0954098
+Iter 7900 emp 8259 changemu 9071 fu 0.0991898
+Iter 8000 emp 8289 changemu 9149 fu 0.0966808
+Iter 8100 emp 8329 changemu 9218 fu 0.0969678
+Iter 8200 emp 8289 changemu 9368 fu 0.0954098
+Iter 8300 emp 7897 changemu 9740 fu 0.0871428
+Iter 8400 emp 7497 changemu 9930 fu 0.0818508
+Iter 8500 emp 7587 changemu 9983 fu 0.0831938
+Iter 8600 emp 7518 changemu 10056 fu 0.0831538
+Iter 8700 emp 7711 changemu 10132 fu 0.0863948
+Iter 8800 emp 7890 changemu 10167 fu 0.0910978
+Iter 8900 emp 7864 changemu 10355 fu 0.0889168
+Iter 9000 emp 7920 changemu 10469 fu 0.0908838
+Iter 9100 emp 8039 changemu 10491 fu 0.0921448
+Iter 9200 emp 8178 changemu 10529 fu 0.0977418
+Iter 9300 emp 8054 changemu 10818 fu 0.0932058
+Iter 9400 emp 7997 changemu 10942 fu 0.0920688
+Iter 9500 emp 7913 changemu 11083 fu 0.0909208
+Iter 9600 emp 7786 changemu 11263 fu 0.0907318
+Iter 9700 emp 7471 changemu 11613 fu 0.0828618
+Iter 9800 emp 7587 changemu 11737 fu 0.0877868
+Iter 9900 emp 7578 changemu 11871 fu 0.0841158
+Iter 10000 emp 7661 changemu 11903 fu 0.0863078
+Iter 10100 emp 7621 changemu 12033 fu 0.0878028
+Iter 10200 emp 7629 changemu 12169 fu 0.0892118
+Iter 10300 emp 7460 changemu 12308 fu 0.0896488
+Iter 10400 emp 7459 changemu 12487 fu 0.0876428
+Iter 10500 emp 7592 changemu 12616 fu 0.0907458
+Iter 10600 emp 7890 changemu 12690 fu 0.0988758
+Iter 10700 emp 7979 changemu 12726 fu 0.0963928
+Iter 10800 emp 8015 changemu 12888 fu 0.0967148
+Iter 10900 emp 7982 changemu 13012 fu 0.0931128
+Iter 11000 emp 7859 changemu 13151 fu 0.0879358
+Iter 11100 emp 7732 changemu 13283 fu 0.0850218
+Iter 11200 emp 7739 changemu 13386 fu 0.0837008
+Iter 11300 emp 7736 changemu 13561 fu 0.0856048
+Iter 11400 emp 7872 changemu 13607 fu 0.0882008
+Iter 11500 emp 7874 changemu 13712 fu 0.0887188
+Iter 11600 emp 7824 changemu 13831 fu 0.0901538
+Iter 11700 emp 7842 changemu 13963 fu 0.0922738
+Iter 11800 emp 7866 changemu 14082 fu 0.0929708
+Iter 11900 emp 8114 changemu 14125 fu 0.0977388
+Iter 12000 emp 8196 changemu 14204 fu 0.0978598
+Iter 12100 emp 8242 changemu 14297 fu 0.0983018
+Iter 12200 emp 8190 changemu 14435 fu 0.0960658
+Iter 12300 emp 8089 changemu 14649 fu 0.0962688
+Iter 12400 emp 8011 changemu 14830 fu 0.0985048
+Iter 12500 emp 8235 changemu 14871 fu 0.1033298
+Iter 12600 emp 8470 changemu 14918 fu 0.1103468
+Iter 12700 emp 8569 changemu 14993 fu 0.1152788
+Iter 12800 emp 8584 changemu 15200 fu 0.1149978
+Iter 12900 emp 8535 changemu 15283 fu 0.1105628
+Iter 13000 emp 8666 changemu 15359 fu 0.1137528
+Iter 13100 emp 8556 changemu 15580 fu 0.1066318
+Iter 13200 emp 8665 changemu 15625 fu 0.1132238
+Iter 13300 emp 8377 changemu 15911 fu 0.1076918
+Iter 13400 emp 8315 changemu 16068 fu 0.1022458
+Iter 13500 emp 8339 changemu 16132 fu 0.1039948
+Iter 13600 emp 8425 changemu 16214 fu 0.1056358
+Iter 13700 emp 8476 changemu 16305 fu 0.1107938
+Iter 13800 emp 8256 changemu 16511 fu 0.1033378
+Iter 13900 emp 8247 changemu 16600 fu 0.0998768
+Iter 14000 emp 8019 changemu 16784 fu 0.0916938
+Iter 14100 emp 7899 changemu 16946 fu 0.0931538
+Iter 14200 emp 8056 changemu 16966 fu 0.0945168
+Iter 14300 emp 8034 changemu 17079 fu 0.0934028
+Iter 14400 emp 7668 changemu 17262 fu 0.0864428
+Iter 14500 emp 7749 changemu 17310 fu 0.0877888
+Iter 14600 emp 7744 changemu 17432 fu 0.0892538
+Iter 14700 emp 7755 changemu 17574 fu 0.0872838
+Iter 14800 emp 7709 changemu 17729 fu 0.0852878
+Iter 14900 emp 7761 changemu 17841 fu 0.0880518
+Iter 15000 emp 7881 changemu 17882 fu 0.0912528
+>> 

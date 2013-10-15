@@ -1,0 +1,34 @@
+No window system found.  Java option 'MWT' ignored.
+Error writing to output stream.
+
+{Error using disp
+Error writing to output stream.
+
+
+
+Error in simulations_p0distr_bertrand_DC (line 395)
+       disp(sprintf('Iter %d emp %d changemu %d fu
+       %f8',tt,Ne,change_mu_cum,f));
+} 
+No window system found.  Java option 'MWT' ignored.
+No window system found.  Java option 'MWT' ignored.
+No window system found.  Java option 'MWT' ignored.
+{Undefined function or variable 'change_mu_cum'.
+
+Error in simulations_p0distr_bertrand_DC (line 305)
+   change_mu_cum = change_mu_cum + sum(change_mu);
+} 
+No window system found.  Java option 'MWT' ignored.
+{Subscript indices must either be real positive integers or logicals.
+
+Error in simulations_p0distr_bertrand_DC (line 566)
+        p_column = firm_shocks(firm_name(employed))';
+} 
+No window system found.  Java option 'MWT' ignored.
+{Subscript indices must either be real positive integers or logicals.
+
+Error in simulations_p0distr_bertrand_DC (line 566)
+        p_column = firm_shocks(firm_name(employed))';
+} 
+No window system found.  Java option 'MWT' ignored.
+No window system found.  Java option 'MWT' ignored.

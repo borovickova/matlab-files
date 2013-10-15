@@ -1,0 +1,9 @@
+No window system found.  Java option 'MWT' ignored.
+No window system found.  Java option 'MWT' ignored.
+{Error using +
+Matrix dimensions must agree.
+
+Error in simulations_p0distr_bertrand (line 674)
+            emp_distr(:,i) = emp_distr(:,i)+curdist(2:end);
+} 
+

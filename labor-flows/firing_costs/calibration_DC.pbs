@@ -1,0 +1,22 @@
+### PBS script to run a parallel matlab job 
+### on the cluster
+
+#PBS -l nodes=1:ppn=1,walltime=6:00:00
+#PBS -N matlab_firing_costs
+#PBS -M kb103@nyu.edu
+#PBS -m abe
+#PBS -e localhost:/home/kb103/matlab-files/labor-flows/firing_costs/Errors13.err
+#PBS -o localhost:/home/kb103/matlab-files/labor-flows/firing_costs/Output13.out 
+
+module load matlab
+cd /home/kb103/matlab-files/labor-flows/firing_costs
+matlab <main_run_file_bertrand_DC.m> firing_costs_output.out
+
+### You can add more stuff for the script to do after the job is completed
+
+### E.g. zip up the ResultsDir for easy transfer
+### zip -r Results.zip ResultsDir/*.*
+
+exit 0;
+
+

@@ -1,0 +1,242 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> =======================================================
+Iteration: plow all 1, shock 1, shock plow 18, time 9.400524
+    0.6166         0         0         0         0
+
+Iteration: plow all 1, shock 2, shock plow 18, time 18.083195
+    0.6166    0.3323         0         0         0
+
+Iteration: plow all 1, shock 3, shock plow 18, time 26.431489
+    0.6166    0.3323    0.1922         0         0
+
+Iteration: plow all 1, shock 4, shock plow 18, time 34.580986
+    0.6166    0.3323    0.1922    0.1091         0
+
+Iteration: plow all 1, shock 5, shock plow 18, time 42.981357
+    0.6166    0.3323    0.1922    0.1091    0.0563
+
+
+Dfirst_all =
+
+  177.5989   72.1128   36.4413   11.7566    0.0172
+
+Iteration: plow all 2, shock 1, shock plow 18, time 51.883520
+    0.3898    0.3323    0.1922    0.1091    0.0563
+
+Iteration: plow all 2, shock 2, shock plow 18, time 60.869743
+    0.3898    0.2556    0.1922    0.1091    0.0563
+
+Iteration: plow all 2, shock 3, shock plow 18, time 69.907916
+    0.3898    0.2556    0.1687    0.1091    0.0563
+
+Iteration: plow all 2, shock 4, shock plow 18, time 78.937808
+    0.3898    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 2, shock 5, shock plow 18, time 87.987636
+    0.3898    0.2556    0.1687    0.1045    0.0563
+
+
+Dfirst_all =
+
+    3.6573    0.6100    1.3988    1.3162   -0.0037
+
+Iteration: plow all 3, shock 1, shock plow 18, time 97.055325
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 3, shock 2, shock plow 18, time 106.079662
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 3, shock 3, shock plow 18, time 115.179493
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 3, shock 4, shock plow 18, time 124.189037
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 3, shock 5, shock plow 18, time 133.246279
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+
+Dfirst_all =
+
+    0.1124    0.6111    1.3987    1.3157   -0.0045
+
+Iteration: plow all 4, shock 1, shock plow 18, time 142.335490
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 4, shock 2, shock plow 18, time 151.359208
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 4, shock 3, shock plow 18, time 160.403438
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 4, shock 4, shock plow 18, time 169.410378
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+Iteration: plow all 4, shock 5, shock plow 18, time 178.461924
+    0.3850    0.2556    0.1687    0.1045    0.0563
+
+
+Dfirst_all =
+
+    0.1124    0.6111    1.3987    1.3157   -0.0045
+
+done
+
+employment =
+
+    0.6221
+
+
+employment1 =
+
+    0.6221
+
+
+unemrate =
+
+    0.3779
+
+
+flows =
+
+    0.0002    0.0008    0.0016    0.0022    0.0017
+
+
+vbar_new =
+
+    0.0000    0.0004    0.0388    0.3742    0.5866
+
+done
+
+employment =
+
+    0.7524
+
+
+employment1 =
+
+    0.7524
+
+
+unemrate =
+
+    0.2476
+
+
+flows =
+
+    0.0000    0.0001    0.0006    0.0038    0.0042
+
+
+vbar_new =
+
+    0.0000    0.0004    0.0347    0.3594    0.6055
+
+done
+
+employment =
+
+    0.7538
+
+
+employment1 =
+
+    0.7538
+
+
+unemrate =
+
+    0.2462
+
+
+flows =
+
+    0.0000    0.0001    0.0006    0.0037    0.0043
+
+
+vbar_new =
+
+    0.0000    0.0004    0.0347    0.3592    0.6057
+
+Iter 100 emp 5886 fu 0.1317138; 214.772595 secs.
+Iter 200 emp 6308 fu 0.1341258; 216.149974 secs.
+Iter 300 emp 6879 fu 0.1443998; 217.539055 secs.
+Iter 400 emp 7346 fu 0.1516668; 218.930072 secs.
+Iter 500 emp 7526 fu 0.1551718; 220.320501 secs.
+Iter 600 emp 7727 fu 0.1561258; 221.710276 secs.
+Iter 700 emp 7664 fu 0.1484628; 223.101825 secs.
+Iter 800 emp 7746 fu 0.1499778; 224.492237 secs.
+Iter 900 emp 7945 fu 0.1542108; 225.883469 secs.
+Iter 1000 emp 7956 fu 0.1512478; 227.272411 secs.
+Iter 1100 emp 8151 fu 0.1602478; 228.664284 secs.
+Iter 1200 emp 8288 fu 0.1661928; 230.054356 secs.
+Iter 1300 emp 8408 fu 0.1679508; 231.442203 secs.
+Iter 1400 emp 8331 fu 0.1655168; 232.828825 secs.
+Iter 1500 emp 8360 fu 0.1646848; 234.217080 secs.
+Iter 1600 emp 8268 fu 0.1585388; 235.606345 secs.
+Iter 1700 emp 8312 fu 0.1584908; 236.995532 secs.
+Iter 1800 emp 8376 fu 0.1583888; 238.385679 secs.
+Iter 1900 emp 8353 fu 0.1522178; 239.775911 secs.
+Iter 2000 emp 8385 fu 0.1584228; 241.165438 secs.
+Iter 100 emp 8362 changemu 261 fu 0.1532428 fired 13 hired 10 switch 3; 247.295825 secs.
+Iter 200 emp 8348 changemu 298 fu 0.1494208 fired 4 hired 9 switch 2; 252.777372 secs.
+Iter 300 emp 8423 changemu 391 fu 0.1509918 fired 5 hired 6 switch 1; 258.279060 secs.
+Iter 400 emp 8508 changemu 407 fu 0.1561358 fired 7 hired 10 switch 0; 263.799596 secs.
+Iter 500 emp 8585 changemu 465 fu 0.1652708 fired 7 hired 7 switch 6; 269.339625 secs.
+Iter 600 emp 8613 changemu 551 fu 0.1677338 fired 8 hired 9 switch 3; 274.891185 secs.
+Iter 700 emp 8706 changemu 600 fu 0.1791708 fired 9 hired 9 switch 4; 280.455403 secs.
+Iter 800 emp 8679 changemu 827 fu 0.1766358 fired 6 hired 7 switch 2; 286.029228 secs.
+Iter 900 emp 8719 changemu 902 fu 0.1737248 fired 6 hired 7 switch 3; 292.326874 secs.
+Iter 1000 emp 8726 changemu 1076 fu 0.1732268 fired 4 hired 13 switch 4; 297.909373 secs.
+Iter 1100 emp 8723 changemu 1169 fu 0.1683068 fired 4 hired 3 switch 2; 303.501297 secs.
+Iter 1200 emp 8643 changemu 1536 fu 0.1687078 fired 4 hired 10 switch 3; 309.088655 secs.
+Iter 1300 emp 8603 changemu 1694 fu 0.1644908 fired 2 hired 8 switch 4; 314.648075 secs.
+Iter 1400 emp 8714 changemu 1735 fu 0.1687448 fired 5 hired 9 switch 2; 320.213989 secs.
+Iter 1500 emp 8629 changemu 1896 fu 0.1590718 fired 4 hired 9 switch 4; 325.788762 secs.
+Iter 1600 emp 8675 changemu 1971 fu 0.1658318 fired 5 hired 6 switch 4; 331.353921 secs.
+Iter 1700 emp 8703 changemu 2042 fu 0.1759778 fired 2 hired 12 switch 6; 336.933276 secs.
+Iter 1800 emp 8706 changemu 2126 fu 0.1736928 fired 8 hired 6 switch 4; 342.883320 secs.
+Iter 1900 emp 8745 changemu 2183 fu 0.1731548 fired 4 hired 4 switch 5; 348.456729 secs.
+Iter 2000 emp 8767 changemu 2315 fu 0.1741338 fired 12 hired 5 switch 1; 354.052748 secs.
+Iter 2100 emp 8697 changemu 2431 fu 0.1728658 fired 11 hired 7 switch 2; 359.641384 secs.
+Iter 2200 emp 8735 changemu 2520 fu 0.1720038 fired 10 hired 9 switch 4; 365.218371 secs.
+Iter 2300 emp 8743 changemu 2672 fu 0.1685358 fired 8 hired 7 switch 6; 370.777610 secs.
+Iter 2400 emp 8694 changemu 2842 fu 0.1668058 fired 6 hired 8 switch 2; 376.527600 secs.
+Iter 2500 emp 8628 changemu 3040 fu 0.1706518 fired 10 hired 6 switch 1; 382.188238 secs.
+Iter 2600 emp 8547 changemu 3294 fu 0.1559878 fired 6 hired 13 switch 4; 387.753508 secs.
+Iter 2700 emp 8434 changemu 3399 fu 0.1478918 fired 6 hired 10 switch 5; 393.654600 secs.
+Iter 2800 emp 8451 changemu 3509 fu 0.1470028 fired 5 hired 14 switch 2; 399.485796 secs.
+Iter 2900 emp 8570 changemu 3578 fu 0.1583488 fired 8 hired 7 switch 4; 405.017047 secs.
+Iter 3000 emp 8668 changemu 3689 fu 0.1611748 fired 7 hired 12 switch 3; 410.712280 secs.
+Iter 3100 emp 8664 changemu 3838 fu 0.1607278 fired 7 hired 7 switch 3; 416.285741 secs.
+Iter 3200 emp 8568 changemu 3930 fu 0.1555398 fired 9 hired 8 switch 1; 421.829676 secs.
+Iter 3300 emp 8579 changemu 4070 fu 0.1571328 fired 8 hired 10 switch 3; 427.373890 secs.
+Iter 3400 emp 8506 changemu 4398 fu 0.1565748 fired 9 hired 4 switch 2; 432.919308 secs.
+Iter 3500 emp 8562 changemu 4499 fu 0.1630258 fired 7 hired 10 switch 3; 438.457850 secs.
+Iter 3600 emp 8581 changemu 4590 fu 0.1572398 fired 4 hired 5 switch 4; 444.378193 secs.
+Iter 3700 emp 8510 changemu 4847 fu 0.1606018 fired 7 hired 8 switch 1; 449.918005 secs.
+Iter 3800 emp 8628 changemu 4941 fu 0.1653598 fired 7 hired 15 switch 3; 455.457026 secs.
+Iter 3900 emp 8631 changemu 5066 fu 0.1679558 fired 9 hired 13 switch 4; 461.017523 secs.
+Iter 4000 emp 8740 changemu 5176 fu 0.1763728 fired 7 hired 6 switch 2; 466.596041 secs.
+Iter 4100 emp 8763 changemu 5307 fu 0.1787028 fired 11 hired 12 switch 3; 472.172360 secs.
+Iter 4200 emp 8834 changemu 5411 fu 0.1793898 fired 4 hired 10 switch 1; 477.766909 secs.
+Iter 4300 emp 8859 changemu 5474 fu 0.1893608 fired 9 hired 10 switch 4; 483.373522 secs.
+Iter 4400 emp 8924 changemu 5555 fu 0.1928808 fired 8 hired 6 switch 3; 489.038235 secs.
+Iter 4500 emp 8874 changemu 5652 fu 0.1880968 fired 3 hired 3 switch 3; 495.029156 secs.
+Iter 4600 emp 8874 changemu 5810 fu 0.1871538 fired 10 hired 8 switch 5; 500.642384 secs.
+Iter 4700 emp 8755 changemu 6030 fu 0.1791948 fired 9 hired 5 switch 4; 506.247595 secs.
+Iter 4800 emp 8760 changemu 6090 fu 0.1807598 fired 7 hired 5 switch 4; 511.836634 secs.
+Iter 4900 emp 8831 changemu 6109 fu 0.1839318 fired 8 hired 9 switch 5; 517.412506 secs.
+Iter 5000 emp 8823 changemu 6285 fu 0.1804318 fired 7 hired 12 switch 4; 523.015564 secs.
+>> >> 

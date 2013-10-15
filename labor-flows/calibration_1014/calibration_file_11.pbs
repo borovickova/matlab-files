@@ -1,0 +1,22 @@
+### PBS script to run a parallel matlab job 
+### on the cluster
+
+#PBS -l nodes=1:ppn=1,walltime=6:00:00
+#PBS -N matlab_calibration_11
+#PBS -M kb103@nyu.edu
+#PBS -m abe
+#PBS -e localhost:/home/kb103/matlab-files/labor-flows/calibration_1014/Errors11.err
+#PBS -o localhost:/home/kb103/matlab-files/labor-flows/calibration_1014/Output11.out 
+
+module load matlab
+cd /home/kb103/matlab-files/labor-flows/calibration_1014
+matlab <main_run_file_bertrand_calibration_11.m> calibration_output11.out
+
+### You can add more stuff for the script to do after the job is completed
+
+### E.g. zip up the ResultsDir for easy transfer
+### zip -r Results.zip ResultsDir/*.*
+
+exit 0;
+
+

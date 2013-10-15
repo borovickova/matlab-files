@@ -1,0 +1,205 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> =======================================================
+Iteration: plow all 1, shock 1, shock plow 18, time 9.531064
+    0.5666         0         0         0         0
+
+Iteration: plow all 1, shock 2, shock plow 18, time 18.299054
+    0.5666    0.3103         0         0         0
+
+Iteration: plow all 1, shock 3, shock plow 18, time 26.793532
+    0.5666    0.3103    0.1822         0         0
+
+Iteration: plow all 1, shock 4, shock plow 18, time 35.182186
+    0.5666    0.3103    0.1822    0.1051         0
+
+Iteration: plow all 1, shock 5, shock plow 18, time 43.759693
+    0.5666    0.3103    0.1822    0.1051    0.0567
+
+
+Dfirst_all =
+
+  164.0343   73.7956   38.6602   13.6702   -0.0284
+
+Iteration: plow all 2, shock 1, shock plow 18, time 52.836355
+    0.3560    0.3103    0.1822    0.1051    0.0567
+
+Iteration: plow all 2, shock 2, shock plow 18, time 62.036264
+    0.3560    0.2370    0.1822    0.1051    0.0567
+
+Iteration: plow all 2, shock 3, shock plow 18, time 71.143670
+    0.3560    0.2370    0.1586    0.1051    0.0567
+
+Iteration: plow all 2, shock 4, shock plow 18, time 80.247874
+    0.3560    0.2370    0.1586    0.1010    0.0567
+
+Iteration: plow all 2, shock 5, shock plow 18, time 89.377189
+    0.3560    0.2370    0.1586    0.1010    0.0566
+
+
+Dfirst_all =
+
+    3.8706    0.7826    0.9916    2.7466    0.0426
+
+Iteration: plow all 3, shock 1, shock plow 18, time 98.523191
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 3, shock 2, shock plow 18, time 107.697257
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 3, shock 3, shock plow 18, time 116.822384
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 3, shock 4, shock plow 18, time 125.918130
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 3, shock 5, shock plow 18, time 135.048587
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+
+Dfirst_all =
+
+   -0.7052   -0.3704   -0.8137   -0.2399    0.0423
+
+Iteration: plow all 4, shock 1, shock plow 18, time 144.284218
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 4, shock 2, shock plow 18, time 153.495779
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 4, shock 3, shock plow 18, time 162.664710
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 4, shock 4, shock plow 18, time 171.836235
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+Iteration: plow all 4, shock 5, shock plow 18, time 180.984783
+    0.3512    0.2370    0.1586    0.1010    0.0566
+
+
+Dfirst_all =
+
+   -0.7052   -0.3704   -0.8137   -0.2399    0.0423
+
+done
+
+employment =
+
+    0.6188
+
+
+employment1 =
+
+    0.6188
+
+
+unemrate =
+
+    0.3812
+
+
+flows =
+
+    0.0001    0.0008    0.0017    0.0023    0.0018
+
+
+vbar_new =
+
+    0.0000    0.0002    0.0345    0.3745    0.5908
+
+done
+
+employment =
+
+    0.7484
+
+
+employment1 =
+
+    0.7484
+
+
+unemrate =
+
+    0.2516
+
+
+flows =
+
+    0.0000    0.0001    0.0007    0.0040    0.0044
+
+
+vbar_new =
+
+    0.0000    0.0002    0.0306    0.3576    0.6116
+
+done
+
+employment =
+
+    0.7498
+
+
+employment1 =
+
+    0.7498
+
+
+unemrate =
+
+    0.2502
+
+
+flows =
+
+    0.0000    0.0001    0.0006    0.0039    0.0044
+
+
+vbar_new =
+
+    0.0000    0.0002    0.0306    0.3575    0.6118
+
+Iter 100 emp 6457 fu 0.1601918; 219.908583 secs.
+Iter 200 emp 7002 fu 0.1686108; 221.405118 secs.
+Iter 300 emp 7510 fu 0.1784478; 222.893792 secs.
+Iter 400 emp 7894 fu 0.1829098; 224.375907 secs.
+Iter 500 emp 8147 fu 0.1857048; 225.889981 secs.
+Iter 600 emp 8144 fu 0.1897958; 227.420071 secs.
+Iter 700 emp 8291 fu 0.1858258; 228.947719 secs.
+Iter 800 emp 8326 fu 0.1876158; 230.469804 secs.
+Iter 900 emp 8376 fu 0.1829418; 231.986168 secs.
+Iter 1000 emp 8420 fu 0.1856308; 233.496602 secs.
+Iter 1100 emp 8525 fu 0.1877638; 235.006576 secs.
+Iter 1200 emp 8545 fu 0.1951208; 236.515956 secs.
+Iter 1300 emp 8531 fu 0.1916788; 238.029670 secs.
+Iter 1400 emp 8571 fu 0.1923878; 239.551750 secs.
+Iter 1500 emp 8622 fu 0.1925818; 241.076686 secs.
+Iter 1600 emp 8690 fu 0.1896698; 242.599308 secs.
+Iter 1700 emp 8660 fu 0.1910728; 244.112005 secs.
+Iter 1800 emp 8652 fu 0.1863258; 245.608956 secs.
+Iter 1900 emp 8480 fu 0.1699318; 247.097302 secs.
+Iter 2000 emp 8564 fu 0.1753268; 248.608031 secs.
+Iter 100 emp 8533 changemu 109 fu 0.1718688 fired 11 hired 8 switch 2; 255.188154 secs.
+Iter 200 emp 8441 changemu 315 fu 0.1701628 fired 33 hired 10 switch 2; 261.162103 secs.
+Iter 300 emp 8540 changemu 444 fu 0.1743918 fired 9 hired 8 switch 3; 267.110530 secs.
+Iter 400 emp 8556 changemu 592 fu 0.1740658 fired 6 hired 7 switch 6; 273.231692 secs.
+Iter 500 emp 8533 changemu 643 fu 0.1694578 fired 8 hired 10 switch 4; 279.179099 secs.
+Iter 600 emp 8442 changemu 769 fu 0.1675958 fired 7 hired 6 switch 5; 285.148879 secs.
+Iter 700 emp 8501 changemu 953 fu 0.1818168 fired 7 hired 7 switch 7; 291.080034 secs.
+Iter 800 emp 8575 changemu 1211 fu 0.1830968 fired 7 hired 10 switch 5; 297.071976 secs.
+Iter 900 emp 8701 changemu 1246 fu 0.1900568 fired 5 hired 6 switch 5; 303.395408 secs.
+Iter 1000 emp 8688 changemu 1458 fu 0.1888438 fired 5 hired 10 switch 1; 309.320569 secs.
+Iter 1100 emp 8803 changemu 1488 fu 0.1955848 fired 9 hired 12 switch 5; 315.275056 secs.
+Iter 1200 emp 8768 changemu 1658 fu 0.1867528 fired 6 hired 12 switch 3; 321.366975 secs.
+Iter 1300 emp 8794 changemu 1785 fu 0.1931728 fired 7 hired 6 switch 3; 327.352737 secs.
+>> >> 
